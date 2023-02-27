@@ -1,2 +1,1 @@
-# Welcome to My Bootcamp rust quests qwasar Project
-
+# Welcome to My Bootcamp rust quests qwasar
